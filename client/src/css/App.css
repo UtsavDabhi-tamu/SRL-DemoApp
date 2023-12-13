@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.mainHeadEle {
+  background-color: #353535;
+  padding: 0.05% 4%;
+}
+
+.mainHeadEle h2 {
+  color: #dde1e7;
+}
+
+.edit-btn {
+  margin: 0% 1%;
+  cursor: pointer;
+}
+
+.save-btn {
+  padding: 1% 4%;
+  border-radius: 6px;
+  cursor: pointer;
+}
